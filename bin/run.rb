@@ -10,7 +10,7 @@ author2 = Author.new('drew')
 author3 = Author.new('yator')
 author4 = Author.new("kibi")
 
-#mags
+#magazines
 magazine_1=Magazine.new("sports today", "top 40 under 40")
 magazine_2=Magazine.new("daily nation", "peoples daily")
 magazine_3=Magazine.new("The cookOut", "business daily")
