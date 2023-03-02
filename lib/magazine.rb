@@ -37,3 +37,4 @@ class Magazine
       magazine_authors.tally.each {|key, value|  value > 2}
       magazine_authors
     end
+  end
