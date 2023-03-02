@@ -1,4 +1,4 @@
-
+#author
  class Author
     attr_reader :name
   
